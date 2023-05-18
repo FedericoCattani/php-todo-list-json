@@ -12,6 +12,8 @@ createApp({
 
   methods: {
 
+
+
     removeTask(index) {
       this.errorMsg = ''
       if (this.tasks[index].done) {

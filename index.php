@@ -1,7 +1,12 @@
 <?php
+/*
+$object = file_get_contents('tasks.json');
+$objectPHP = json_decode($object);
+array_push($objectPHP, []);
+echo json_encode($object);
+print_r($objectPHP);
 
-
-
+die();*/
 ?>
 
 
